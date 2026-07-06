@@ -62,7 +62,7 @@ export function HeroSection() {
           </motion.div>
         </motion.div>
 
-        <motion.div
+        {/* <motion.div
           initial={{ opacity: 0, x: 40, scale: 0.96 }}
           animate={{ opacity: 1, x: 0, scale: 1 }}
           transition={{ duration: 0.9, delay: 0.25, ease: [0.22, 1, 0.36, 1] }}
@@ -80,7 +80,7 @@ export function HeroSection() {
               sizes="(min-width: 1024px) 45vw, 100vw"
               className="h-full"
             />
-          </motion.div>
+          </motion.div> */}
           <div className="absolute bottom-20 left-0 max-w-sm rounded-3xl border border-white/20 bg-white/12 p-6 backdrop-blur-xl">
             <p className="text-sm font-semibold text-[#BDEFFF]">Air balance</p>
             <p className="mt-2 text-3xl font-semibold">98%</p>
