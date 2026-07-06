@@ -80,7 +80,7 @@ export function HeroSection() {
               sizes="(min-width: 1024px) 45vw, 100vw"
               className="h-full"
             />
-          </motion.div> */}
+          </motion.div>
           <div className="absolute bottom-20 left-0 max-w-sm rounded-3xl border border-white/20 bg-white/12 p-6 backdrop-blur-xl">
             <p className="text-sm font-semibold text-[#BDEFFF]">Air balance</p>
             <p className="mt-2 text-3xl font-semibold">98%</p>
@@ -89,7 +89,7 @@ export function HeroSection() {
             </p>
           </div>
         </motion.div>
-      </div>
+      </div> */}
 
       <motion.div
         initial="hidden"
