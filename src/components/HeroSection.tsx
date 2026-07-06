@@ -88,8 +88,8 @@ export function HeroSection() {
               Optimized airflow, filtration, humidity, and temperature.
             </p>
           </div>
-        </motion.div>
-      </div> */}
+        </motion.div> */}
+      </div>
 
       <motion.div
         initial="hidden"
