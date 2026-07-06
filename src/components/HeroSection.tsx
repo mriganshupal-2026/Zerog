@@ -47,8 +47,7 @@ export function HeroSection() {
             variants={fadeUp}
             className="mt-6 max-w-2xl text-lg leading-8 text-white/78 sm:text-xl"
           >
-            Professional HVAC installation, repair, maintenance, and indoor air
-            quality solutions for homes and businesses.
+            Exceptional power, performance, and maneuverability.
           </motion.p>
           <motion.div variants={fadeUp} className="mt-9 flex flex-col gap-4 sm:flex-row">
             <ButtonLink href="#contact">
