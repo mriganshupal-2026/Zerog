@@ -41,7 +41,7 @@ export function HeroSection() {
             variants={fadeUp}
             className="max-w-4xl text-5xl font-semibold leading-[1.02] tracking-normal sm:text-6xl lg:text-7xl"
           >
-            Elevate Your Comfort With Cleaner, Healthier Indoor Air
+            The World's Most Capable and Unique Vacuum Cleaner!
           </motion.h1>
           <motion.p
             variants={fadeUp}
