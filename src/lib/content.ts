@@ -26,7 +26,7 @@ export const imageSet = {
   equipment:
     "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1400&q=82",
   purifier:
-    "https://images.unsplash.com/photo-1637611331620-51149c7ceb94?auto=format&fit=crop&w=1400&q=82",
+    "public/ZeroG-collage-v003.jpg",
   lifestyle:
     "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?auto=format&fit=crop&w=2200&q=82",
   commercial:
