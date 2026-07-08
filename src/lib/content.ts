@@ -108,10 +108,10 @@ export const features = [
 ];
 
 export const benefits = [
-  "Quiet, consistent airflow engineered around your space.",
-  "Cleaner indoor air with modern filtration and purification options.",
-  "Maintenance plans that protect performance before problems appear.",
-  "Commercial support for offices, retail, hospitality, and light industrial sites.",
+  "Effortless Vacuuming",
+  "Engineered for Long Life",
+  "Quiet Operation",
+  "Unparalleled Performance",
 ];
 
 export const testimonials = [
@@ -190,8 +190,8 @@ export const socialLinks = [
 ];
 
 export const trustItems = [
-  { label: "Effortless Vacuuming", icon: BadgeCheck },
-  { label: "Engineered for Long Life", icon: Fan },
-  { label: "Quiet Operation", icon: Wrench },
-  { label: "Unparalleled Performance", icon: PhoneCall },
+  { label: "Weightless Canister", icon: BadgeCheck },
+  { label: "Edge Cleaning", icon: Fan },
+  { label: "Powerful Suction", icon: Wrench },
+  { label: "Costs Less", icon: PhoneCall },
 ];
