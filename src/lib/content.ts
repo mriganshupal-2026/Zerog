@@ -30,7 +30,7 @@ export const imageSet = {
   lifestyle:
     "https://images.unsplash.com/photo-1600210491892-03d54c0aaf87?auto=format&fit=crop&w=2200&q=82",
   commercial:
-    "//ZeroG-collage-v003 (1).jpg",
+    "/ZeroG-collage-v003 (1).jpg",
 };
 
 export const navItems = [
