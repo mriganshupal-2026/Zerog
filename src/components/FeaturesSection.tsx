@@ -71,8 +71,8 @@ export function FeaturesSection() {
             </p>
             <p className="mt-2 text-3xl font-semibold text-[#0B1F35]">24/7</p>
             <p className="mt-2 text-sm leading-6 text-[#6B7280]">
-              Installation, repair, maintenance, air purification, and
-              commercial HVAC support.
+              Installation, repair, maintenance, and
+              commercial support.
             </p>
           </div>
         </motion.div>
