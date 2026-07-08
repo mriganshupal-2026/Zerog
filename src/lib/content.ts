@@ -76,33 +76,33 @@ export const services = [
 
 export const features = [
   {
-    title: "Smart Climate Control",
-    description: "Advanced thermostat integration.",
+    title: "Deep Carpet Cleaning",
+    description: "Removes embedded dirt and debris with exceptional cleaning performance.",
     icon: ThermometerSun,
   },
   {
-    title: "Energy Savings",
-    description: "Reduce utility costs.",
+    title: "Powerful Suction",
+    description: "Delivers consistent airflow and strong suction across every surface.",
     icon: Gauge,
   },
   {
-    title: "Air Filtration",
-    description: "Improve indoor air quality.",
+    title: "Hard Floor Performance",
+    description: "Cleans hardwood, tile, and laminate without scattering debris.",
     icon: Filter,
   },
   {
-    title: "Preventive Maintenance",
-    description: "Extend equipment lifespan.",
+    title: "Pet Hair Removal",
+    description: "Easily lifts stubborn pet hair from carpets, rugs, and upholstery.",
     icon: CalendarCheck,
   },
   {
-    title: "Emergency Support",
-    description: "Fast response when needed.",
+    title: "Edge-to-Edge Cleaning",
+    description: "Reaches along walls, corners, and baseboards with precision.",
     icon: Headphones,
   },
   {
-    title: "Commercial Expertise",
-    description: "Solutions for businesses.",
+    title: "Engineered Efficiency",
+    description: "High performance with quiet operation and long-lasting durability.",
     icon: Building2,
   },
 ];
