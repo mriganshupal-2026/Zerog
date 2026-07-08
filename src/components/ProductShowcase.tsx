@@ -17,15 +17,15 @@ export function ProductShowcase() {
       <div className="section-shell grid gap-12 lg:grid-cols-[0.9fr_1.1fr] lg:items-center">
         <Reveal>
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.24em] text-[#00C2FF]">
-            Equipment showcase
+            ZeroG = Zero Gravity
           </p>
           <h2 className="text-4xl font-semibold leading-tight sm:text-5xl">
-            Systems That Look as Refined as They Perform
+            Why ZeroG?
           </h2>
           <p className="mt-6 text-lg leading-8 text-white/70">
-            From quiet condensers to whole-home air purification, every
-            recommendation is selected for fit, efficiency, and long-term
-            reliability.
+            The ZeroG floats on a cushion of air.
+            There are no wheels.
+            It effortlessly follows you across carpet and hard flooring.
           </p>
           <div className="mt-8 grid gap-3 sm:grid-cols-2">
             {trustItems.map((item) => (
