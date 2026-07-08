@@ -15,6 +15,9 @@ export function FeaturesSection() {
           <h2 className="max-w-3xl text-4xl font-semibold leading-tight text-[#0B1F35] sm:text-5xl lg:text-6xl">
             The ZeroG Achieves a Best-Ever Score
           </h2>
+          <p className="max-w-xl text-lg leading-8 text-[#6B7280]">
+            After intensive testing, ZeroG achieved one of the highest scores ever recorded on Vacuum Wars.
+          </p>
 
           <motion.div
             initial="hidden"
