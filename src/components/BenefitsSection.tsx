@@ -11,13 +11,13 @@ export function BenefitsSection() {
       <div className="section-shell grid gap-12 lg:grid-cols-[0.85fr_1.15fr] lg:items-center">
         <Reveal>
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.24em] text-[#00A7DD]">
-            Better indoor living
+            ZeroG Highlights
           </p>
           <h2 className="text-4xl font-semibold leading-tight text-[#0B1F35] sm:text-5xl">
-            Designed for Homes and Businesses That Expect More
+            The Ultimate Vacuuming Machine
           </h2>
           <ButtonLink href="#contact" variant="dark" className="mt-8">
-            Request a Free Estimate
+            Buy Now
           </ButtonLink>
         </Reveal>
         <Reveal delay={0.1}>
