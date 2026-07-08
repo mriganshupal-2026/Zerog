@@ -190,8 +190,8 @@ export const socialLinks = [
 ];
 
 export const trustItems = [
-  { label: "Clean installs", icon: BadgeCheck },
-  { label: "Balanced airflow", icon: Fan },
-  { label: "Precision repairs", icon: Wrench },
-  { label: "Call scheduling", icon: PhoneCall },
+  { label: "Effortless Vacuuming", icon: BadgeCheck },
+  { label: "Engineered for Long Life", icon: Fan },
+  { label: "Quiet Operation", icon: Wrench },
+  { label: "Unparalleled Performance", icon: PhoneCall },
 ];
