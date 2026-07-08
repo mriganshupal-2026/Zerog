@@ -41,10 +41,10 @@ export const navItems = [
 ];
 
 export const heroFeatures = [
-  { label: "Energy Efficient", icon: Zap },
-  { label: "Indoor Air Quality", icon: Leaf },
-  { label: "Fast Service", icon: TimerReset },
-  { label: "Licensed & Insured", icon: ShieldCheck },
+  { label: "Zero Gravity Floating", icon: Zap },
+  { label: "Unrivalled Dirt Extraction", icon: Leaf },
+  { label: "Edge-to-Edge Cleaning", icon: TimerReset },
+  { label: "Less Than Premium Competitors", icon: ShieldCheck },
 ];
 
 export const services = [
