@@ -24,7 +24,7 @@ export const imageSet = {
   hero:
     "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?auto=format&fit=crop&w=2200&q=82",
   equipment:
-    "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&w=1400&q=82",
+    "/ZeroG-collage-v003 (1).jpg",
   purifier:
     "/ZeroG-collage-v003.jpg",
   lifestyle:
