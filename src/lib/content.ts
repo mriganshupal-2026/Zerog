@@ -53,7 +53,7 @@ export const services = [
     description:
       "30' power cord",
     image:
-      "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=1200&q=82",
+      "/zerog device.jpg",
     icon: AirVent,
   },
   {
@@ -61,7 +61,7 @@ export const services = [
     description:
       "Deep carpet cleaning.",
     image:
-      "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1200&q=82",
+      "/zerog carpet Cleaning.jpg",
     icon: Wrench,
   },
   {
@@ -69,7 +69,7 @@ export const services = [
     description:
       "Perfect for upholstery and pet hair.",
     image:
-      "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=1200&q=82",
+      "/zerog pet friendly.jpg",
     icon: Sparkles,
   },
 ];
