@@ -13,15 +13,15 @@ export function ServicesGrid() {
         <div className="mb-12 flex flex-col justify-between gap-6 md:flex-row md:items-end">
           <div>
             <p className="mb-4 text-sm font-semibold uppercase tracking-[0.24em] text-[#00A7DD]">
-              Our services
+              ZEROG PREMIUM DELUXE
             </p>
             <h2 className="text-4xl font-semibold text-[#0B1F35] sm:text-5xl">
-              Our Services
+              Everything Included with Your ZeroG
             </h2>
           </div>
           <p className="max-w-xl text-lg leading-8 text-[#6B7280]">
-            Premium residential and commercial HVAC services with modern air
-            quality solutions built around comfort, reliability, and efficiency.
+            Every ZeroG F3D Premium Deluxe includes a carefully selected collection of premium tools and accessories designed to deliver exceptional 
+            performance on carpets, hard floors, stairs, upholstery, and more—right out of the box.
           </p>
         </div>
 
