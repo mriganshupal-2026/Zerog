@@ -10,10 +10,10 @@ export function FeaturesSection() {
       <div className="section-shell grid gap-14 lg:grid-cols-[1.05fr_0.95fr] lg:items-center">
         <div>
           <p className="mb-4 text-sm font-semibold uppercase tracking-[0.24em] text-[#00A7DD]">
-            Why choose Zero G HVAC
+            Vacuum Wars Tested
           </p>
           <h2 className="max-w-3xl text-4xl font-semibold leading-tight text-[#0B1F35] sm:text-5xl lg:text-6xl">
-            Built for Comfort, Efficiency, and Reliability
+            The ZeroG Achieves a Best-Ever Score
           </h2>
 
           <motion.div
