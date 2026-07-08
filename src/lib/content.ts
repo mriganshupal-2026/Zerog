@@ -49,25 +49,25 @@ export const heroFeatures = [
 
 export const services = [
   {
-    title: "HVAC Installation",
+    title: "White ZeroG Floating Canister",
     description:
-      "High-efficiency system design and installation for precise comfort in every room.",
+      "30' power cord",
     image:
       "https://images.unsplash.com/photo-1581090464777-f3220bbe1b8b?auto=format&fit=crop&w=1200&q=82",
     icon: AirVent,
   },
   {
-    title: "HVAC Repair",
+    title: "World Class ZeroG Power Head",
     description:
-      "Responsive diagnostics, clean repairs, and reliable service when comfort cannot wait.",
+      "Deep carpet cleaning.",
     image:
       "https://images.unsplash.com/photo-1621905252507-b35492cc74b4?auto=format&fit=crop&w=1200&q=82",
     icon: Wrench,
   },
   {
-    title: "Air Quality Solutions",
+    title: "StairPro Mini Power Brush",
     description:
-      "Whole-home filtration, purification, humidity balance, and healthier indoor air.",
+      "Perfect for upholstery and pet hair.",
     image:
       "https://images.unsplash.com/photo-1585421514284-efb74c2b69ba?auto=format&fit=crop&w=1200&q=82",
     icon: Sparkles,
